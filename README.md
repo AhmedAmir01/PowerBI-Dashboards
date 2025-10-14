@@ -1,5 +1,3 @@
-# PowerBI-Dashboards
-
 # Quality Inspection Dashboard
 
 This Power BI dashboard provides a comprehensive view of the overall inspection process and performance metrics.
