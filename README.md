@@ -17,3 +17,24 @@ Showcases Top 10 Inspectors, Top 5 Inspection Times, and Department-wise Inspect
 Features Inspector Performance Analysis and Time Analysis to evaluate efficiency and quality trends.
 
 Tools Used: Power BI, SQL
+
+
+# HR Dashboard
+
+This Power BI dashboard provides key insights into workforce demographics, employee performance, and organizational structure.
+
+# Key Insights:
+
+Tracks total employees, new hires, and attrition rate through KPI cards.
+
+Includes interactive filters for Department, Designation, Gender, Tenure, and Location.
+
+Displays Employee Distribution by department and gender using bar and pie charts.
+
+Highlights Attrition Trends and Headcount Growth over time.
+
+Provides Performance Analysis to evaluate productivity and workforce efficiency.
+
+Enables drill-down capabilities for department-level insights.
+
+Tools Used: Power BI, SQL
