@@ -62,23 +62,48 @@ The FMCG Distributor Dashboard provides a comprehensive view of a distributor's 
 
 # Quality Inspection Dashboard
 
-This Power BI dashboard provides a comprehensive view of the overall inspection process and performance metrics.
+### Overview
 
-# Key Insights:
+The Quality Inspection Dashboard was designed for a textile manufacturing company to monitor product quality, track inspection activities, and evaluate inspector performance. It provides a centralized view of inspection results, quality trends, and operational metrics, enabling management to identify issues early and improve manufacturing quality.
 
-Displays Total Inspections, Passed, and Failed inspections through KPI cards and pie charts.
+### Key Features
 
-Includes interactive filters for Status, Year, Month, Day, Customer Name, Floor Name, Inspector No, and Inspector Name.
+- Executive KPI cards displaying Total Inspections, Passed Inspections, Failed Inspections, and Pass Rate.
+- Interactive filters for Status, Year, Month, Day, Customer, Floor, Inspector Number, and Inspector Name.
+- Top 10 Customers and Top 10 Floors based on inspection volume and quality performance.
+- Inspection Trend Analysis to monitor quality performance over time.
+- Top 10 Inspectors and Top 5 Inspection Time analysis to evaluate inspection efficiency.
+- Department-wise Inspection Count for operational performance monitoring.
+- Inspector Performance and Time Analysis to identify productivity and quality trends.
+- Interactive and user-friendly visualizations for quick business insights.
 
-Highlights Top 10 Customers and Top 10 Floors based on inspection status using bar charts.
+### Business Value
 
-Provides Inspection Trend Analysis over time to monitor progress and performance patterns.
+- Monitors product quality across the manufacturing process.
+- Identifies quality issues and inspection trends.
+- Tracks inspector productivity and performance.
+- Supports data-driven quality improvement and operational decision-making.
 
-Showcases Top 10 Inspectors, Top 5 Inspection Times, and Department-wise Inspection Counts.
+### Tools Used
 
-Features Inspector Performance Analysis and Time Analysis to evaluate efficiency and quality trends.
+- Power BI
+- SQL
+- Oracle Database
 
-Tools Used: Power BI, SQL
+### Skills Demonstrated
+
+- Dashboard Design
+- Data Modeling
+- DAX
+- Power Query
+- SQL Querying
+- Oracle Database Integration
+- Data Visualization
+- Business Intelligence
+
+### Screenshot
+
+![Quality Inspection Dashboard](Images/Quality_Inspection_Dashboard.png)
 
 
 # HR Dashboard
