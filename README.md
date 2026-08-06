@@ -103,7 +103,7 @@ The Quality Inspection Dashboard was designed for a textile manufacturing compan
 
 ### Screenshot
 
-![Quality Inspection Dashboard](Images/Quality_Inspection_Dashboard.png)
+![Quality Inspection Dashboard](Images/Quality_Inspection_Dashboard.PNG)
 
 
 # HR Dashboard
