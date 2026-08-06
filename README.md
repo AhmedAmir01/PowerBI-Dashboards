@@ -55,7 +55,7 @@ The FMCG Distributor Dashboard provides a comprehensive view of a distributor's 
 
 ### Screenshot
 
-![FMCG Distributor Dashboard](images/FMCG_Distributor_Dashboard.png)
+![FMCG Distributor Dashboard](Images/FMCG_Distributor_Dashboard.png)
 
 
 
