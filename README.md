@@ -106,22 +106,62 @@ The Quality Inspection Dashboard was designed for a textile manufacturing compan
 ![Quality Inspection Dashboard](Images/Quality_Inspection_Dashboard.PNG)
 
 
-# HR Dashboard
+# HR Analytics Dashboard
 
-This Power BI dashboard provides key insights into workforce demographics, employee performance, and organizational structure.
+### Overview
 
-# Key Insights:
+The HR Analytics Dashboard provides a comprehensive view of workforce performance, employee demographics, hiring, and attrition trends. It enables HR teams and management to monitor key workforce metrics, identify retention challenges, and support strategic workforce planning through interactive visualizations.
 
-Tracks total employees, new hires, and attrition rate through KPI cards.
+### Key Features
 
-Includes interactive filters for Department, Designation, Gender, Tenure, and Location.
+- Executive HR KPIs including:
+  - Total Active Headcount
+  - Budgeted Headcount
+  - Headcount by Gender
+  - Headcount by Employee Type
+- Attrition & Retention analysis with:
+  - YTD Attrition Rate
+  - New Hires (MTD)
+  - Separations (MTD)
+  - Average Employee Tenure
+- Attrition trend analysis over the last 12 months.
+- Voluntary vs. Involuntary separation analysis.
+- Top separation reasons for employee turnover.
+- Workforce profile by:
+  - Age Group
+  - Tenure
+  - Employee Cadre
+- Department-wise headcount summary and fill percentage.
+- Interactive filters for Region, Division, Unit, Department, Section, Employee Type, Cadre, and Subclass.
 
-Displays Employee Distribution by department and gender using bar and pie charts.
+### Business Value
 
-Highlights Attrition Trends and Headcount Growth over time.
+- Monitor workforce growth and staffing levels.
+- Analyze employee attrition and retention trends.
+- Identify key reasons for employee turnover.
+- Evaluate department-wise workforce utilization.
+- Support data-driven HR planning and talent management.
 
-Provides Performance Analysis to evaluate productivity and workforce efficiency.
+### Tools Used
 
-Enables drill-down capabilities for department-level insights.
+- Power BI
+- SQL
+- DAX
+- Power Query
+- Data Modeling
+- Oracle
 
-Tools Used: Power BI, SQL
+### Skills Demonstrated
+
+- HR Analytics
+- Workforce Analytics
+- KPI Dashboard Design
+- DAX Measures
+- Data Modeling
+- Interactive Reporting
+- Data Visualization
+- Business Intelligence
+
+### Screenshot
+
+![HR Analytics Dashboard](Images/HR_Analytics_Dashboard.png)
