@@ -2,7 +2,7 @@
 
 ### Overview
 
-The FMCG Distributor Dashboard provides a comprehensive view of a distributor's financial and operational performance. It enables management to monitor key business metrics, evaluate profitability, analyze working capital, and make data-driven decisions through interactive visualizations and KPIs.
+The FMCG Distributor Dashboard was developed for Unilever's distribution operations to monitor financial and operational performance. It provides insights into profitability, working capital, sales performance, and key business KPIs through interactive Power BI visualizations.
 
 ### Key Features
 
